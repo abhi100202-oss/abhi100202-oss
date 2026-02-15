@@ -72,3 +72,24 @@ This profile showcases my journey in learning, practicing, and applying Data Ana
 ---
 
 ⭐ *Always learning, always growing in the world of Data Analytics.*
+
+---
+
+## 💻 Tech Stack
+
+### 📊 Data Analytics Tools
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 📈 Data Analytics Skills
+
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-blue?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-orange?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-purple?style=for-the-badge)
+![Dashboarding](https://img.shields.io/badge/Dashboarding-green?style=for-the-badge)
+
