@@ -93,3 +93,41 @@ This profile showcases my journey in learning, practicing, and applying Data Ana
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-purple?style=for-the-badge)
 ![Dashboarding](https://img.shields.io/badge/Dashboarding-green?style=for-the-badge)
 
+---
+
+## 📂 Featured Work
+
+Here you will find projects where I apply Data Analytics skills to solve real-world problems, explore datasets, and generate meaningful insights.
+
+These projects reflect my learning journey, practical experience, and continuous improvement in data analysis.
+
+---
+
+## 🧠 My Analytical Approach
+
+✔ Understand the problem and business context
+✔ Clean and prepare raw data
+✔ Perform exploratory data analysis (EDA)
+✔ Identify trends and patterns
+✔ Create clear visualizations
+✔ Deliver actionable insights
+
+---
+
+## ⚙️ Tools I Work With Daily
+
+SQL • Python • Excel • Power BI • Data Cleaning • Data Visualization • EDA
+
+---
+
+## 🚀 Career Objective
+
+Aspiring Data Analyst passionate about transforming raw data into meaningful insights that support smarter decision-making and business growth.
+
+---
+
+## 💡 Motivation
+
+I believe data has the power to tell stories, solve complex problems, and drive impactful decisions in the modern world.
+
+---
